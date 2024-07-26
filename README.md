@@ -31,6 +31,7 @@ You can catch me streaming this project on the weekends on
 ![GenAI-gifs](https://img.shields.io/badge/gen%20ai-gifs-blue?logo=gen%20ai-images)
 ![GenAI-video](https://img.shields.io/badge/gen%20ai-video-yellow?logo=gen%20ai-images)
 ![GenAI-3d](https://img.shields.io/badge/gen%20ai-3d-teal?logo=gen%20ai-images)
+![GenAI-text](https://img.shields.io/badge/gen%20ai-text-orange?logo=gen%20ai-images)
 
 ![Unity](https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=blue)
 ![Blender](https://img.shields.io/badge/Blender-282C34?logo=Blender&logoColor=3DDC84)
