@@ -8,7 +8,7 @@ During the week I work on api integration testing with android using kotlin, on 
 My ai generation SaaS project <a href="https://matissetec.dev/">matisstec.dev</a>
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8binil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matissesProjects&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 This is very funny to me as I mostly program in python and kotlin, but a lot of that code is private
 
@@ -28,4 +28,9 @@ This is very funny to me as I mostly program in python and kotlin, but a lot of 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+
+## 📫 Contact
+**Email:** matissetec@gmail.com
+
+**Twitch:** [matissetec](https://twitch.tv/matissetec)
 </div>
