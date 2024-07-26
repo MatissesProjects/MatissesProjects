@@ -1,8 +1,11 @@
 <div align="center">
 <h1>Hi there 👋, I'm Matisse</h1>
-<h3>A software engineer from California</h3>
+
+![](https://img.shields.io/badge/Software%20Engineer-California-blue)
+
 During the week I work on api integration testing with android using kotlin, on the weekends I do python Saas creation for an ai project.
-Find my site at <a href="https://matissetec.dev/">matisstec.dev</a>
+
+My ai generation SaaS project <a href="https://matissetec.dev/">matisstec.dev</a>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8binil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
