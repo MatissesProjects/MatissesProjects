@@ -3,9 +3,9 @@
 
 ![](https://img.shields.io/badge/Software%20Engineer-California-blue)
 
-During the week I work on api integration testing with android using kotlin, on the weekends I do python Saas creation for an ai project.
+During the week I work on api integration testing with android using kotlin, on the weekends I do python SaaS creation for an ai project.
 
-My ai generation SaaS project <a href="https://matissetec.dev/">matisstec.dev</a>
+My ai generation SaaS project <a href="https://matissetec.dev/" target="_blank">matisstec.dev</a>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matissesProjects&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
