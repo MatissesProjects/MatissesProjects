@@ -48,7 +48,7 @@ You can catch me streaming this project on the weekends on
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@matissetec)
 [![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/matissetec)
 
-<details>
+<!--<details>
 <summary>Click for GitHub Stats</summary>
 
 # 📊 GitHub Stats:
@@ -61,5 +61,5 @@ This is very funny to me as I mostly program in python and kotlin, but a lot of 
 # 🔝 Top Contributed Repo 
 ![](https://github-contributor-stats.vercel.app/api?username=matissesprojects&limit=3&theme=dark&combine_all_yearly_contributions=true&count_private=true&layout=compact)
 
-</details>
+</details> -->
 </div>
