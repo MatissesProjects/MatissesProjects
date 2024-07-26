@@ -5,24 +5,28 @@
 
 During the week I work on api integration testing with android using kotlin, on the weekends I do python SaaS creation for an ai project.
 
-My ai generation SaaS project [![Website](https://img.shields.io/badge/Website-matissetec.dev-blue?style=flat-square&color=darkgreen&logo=vercel&logoColor=green)](https://matissetec.dev/)
+My ai generation SaaS project
 
-you can track our ideas and progress on [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.matissetec.dev/)
+[![Website](https://img.shields.io/badge/Website-matissetec.dev-blue?style=for-the-badge&color=darkgreen&logo=vercel&logoColor=green)](https://matissetec.dev/)
+
+you can track our ideas and progress on
+
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.matissetec.dev/)
 
 You can catch me streaming this project on the weekends on 
-<a href="https://www.twitch.tv/matissetec">
-<img src="https://img.shields.io/twitch/status/matissetec">
-</a>
+
+[![Twitch](https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white)](https://www.twitch.tv/matissetec)
+
 
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![csharp](https://img.shields.io/badge/c%23-3670A0?logo=c%23&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-blue?logo=sql)
-![Kotlin](https://img.shields.io/badge/kotlin-lightblue?logo=kotlin)
+![Python](https://img.shields.io/badge/python-66A0A0?logo=python&logoColor=ffdd54)
+![csharp](https://img.shields.io/badge/c%23-66A0A0?logo=c%23&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-66A0A0?logo=sql)
+![Kotlin](https://img.shields.io/badge/kotlin-66A0A0?logo=kotlin)
 
-![Flask](https://img.shields.io/badge/flask-gray?logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-blue?logo=flask&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-blue?logo=TensorFlow)
 
 ![GenAI-images](https://img.shields.io/badge/gen%20ai-images-green?logo=gen%20ai-images)
@@ -35,7 +39,7 @@ You can catch me streaming this project on the weekends on
 ![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37)
 ![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84)
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 
 ## 📫 Contact
 **Email:** matissetec@gmail.com
