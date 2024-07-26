@@ -15,7 +15,7 @@ You can catch me streaming this project on the weekends on
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-blue?logo=sql) ![Kotlin](https://img.shields.io/badge/kotlin-black?logo=kotlin)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![csharp](https://img.shields.io/badge/c%23-3670A0?style=flat&logo=c%23&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-blue?logo=sql) ![Kotlin](https://img.shields.io/badge/kotlin-black?logo=kotlin)
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-blue?logo=TensorFlow)
 
@@ -24,7 +24,7 @@ You can catch me streaming this project on the weekends on
 ![GenAI-video](https://img.shields.io/badge/gen%20ai-video-yellow?logo=gen%20ai-images)
 ![GenAI-3d](https://img.shields.io/badge/gen%20ai-3d-teal?logo=gen%20ai-images)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84)
+![Unity](https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=blue) ![Blender](https://img.shields.io/badge/Blender-282C34?logo=Blender&logoColor=3DDC84) ![Postman](https://img.shields.io/badge/Postman-282C34?style=flat&logo=postman&logoColor=FF6C37) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84)
 
 ## 📫 Contact
 **Email:** matissetec@gmail.com
