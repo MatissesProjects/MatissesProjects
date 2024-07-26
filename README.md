@@ -26,6 +26,7 @@ You can catch me streaming this project on the weekends on
 
 ![Flask](https://img.shields.io/badge/flask-blue?logo=flask&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-blue?logo=TensorFlow)
+![Chataigne](https://img.shields.io/badge/Chataigne-blue)
 
 ![GenAI-images](https://img.shields.io/badge/gen%20ai-images-green?logo=gen%20ai-images)
 ![GenAI-gifs](https://img.shields.io/badge/gen%20ai-gifs-blue?logo=gen%20ai-images)
