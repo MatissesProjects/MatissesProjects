@@ -18,43 +18,26 @@ You can catch me streaming this project on the weekends on
 [![Twitch](https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white)](https://www.twitch.tv/matissetec)
 
 
-
-
 # 💻 Tech Stack:
-<!-- Group 1 -->
-<p>
-  <img src="https://img.shields.io/badge/python-66A0A0?logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/c%23-66A0A0?logo=c%23&logoColor=ffdd54" alt="C#">
-  <img src="https://img.shields.io/badge/sql-66A0A0?logo=sql" alt="SQL">
-  <img src="https://img.shields.io/badge/kotlin-66A0A0?logo=kotlin" alt="Kotlin">
-</p>
+![Python](https://img.shields.io/badge/python-66A0A0?logo=python&logoColor=ffdd54)
+![csharp](https://img.shields.io/badge/c%23-66A0A0?logo=c%23&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-66A0A0?logo=sql)
+![Kotlin](https://img.shields.io/badge/kotlin-66A0A0?logo=kotlin)
 
-<!-- Group 2 -->
-<p>
-  <img src="https://img.shields.io/badge/flask-blue?logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/TensorFlow-blue?logo=TensorFlow" alt="TensorFlow">
-</p>
+![Flask](https://img.shields.io/badge/flask-blue?logo=flask&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-blue?logo=TensorFlow)
 
-<!-- Group 3 -->
-<p>
-  <img src="https://img.shields.io/badge/gen%20ai-images-green?logo=gen%20ai-images" alt="GenAI-images">
-  <img src="https://img.shields.io/badge/gen%20ai-gifs-blue?logo=gen%20ai-images" alt="GenAI-gifs">
-  <img src="https://img.shields.io/badge/gen%20ai-video-yellow?logo=gen%20ai-images" alt="GenAI-video">
-  <img src="https://img.shields.io/badge/gen%20ai-3d-teal?logo=gen%20ai-images" alt="GenAI-3D">
-</p>
+![GenAI-images](https://img.shields.io/badge/gen%20ai-images-green?logo=gen%20ai-images)
+![GenAI-gifs](https://img.shields.io/badge/gen%20ai-gifs-blue?logo=gen%20ai-images)
+![GenAI-video](https://img.shields.io/badge/gen%20ai-video-yellow?logo=gen%20ai-images)
+![GenAI-3d](https://img.shields.io/badge/gen%20ai-3d-teal?logo=gen%20ai-images)
 
-<!-- Group 4 -->
-<p>
-  <img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=blue" alt="Unity">
-  <img src="https://img.shields.io/badge/Blender-282C34?logo=Blender&logoColor=3DDC84" alt="Blender">
-  <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman">
-  <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android">
-</p>
+![Unity](https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=blue)
+![Blender](https://img.shields.io/badge/Blender-282C34?logo=Blender&logoColor=3DDC84)
+![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37)
+![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84)
 
-<!-- Group 5 -->
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare">
-</p>
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 
 
 ## 📫 Contact
