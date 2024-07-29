@@ -19,14 +19,14 @@ You can catch me streaming this project on the weekends on
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-66A0A0?logo=python&logoColor=ffdd54)
-![csharp](https://img.shields.io/badge/c%23-66A0A0?logo=c%23&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-66A0A0?logo=sql)
-![Kotlin](https://img.shields.io/badge/kotlin-66A0A0?logo=kotlin)
+![Python](https://img.shields.io/badge/python-009117?logo=python&logoColor=ffdd54)
+![csharp](https://img.shields.io/badge/c%23-009117?logo=sharp)
+![SQL](https://img.shields.io/badge/sql-009117?logo=SQLite)
+![Kotlin](https://img.shields.io/badge/kotlin-009117?logo=kotlin)
 
-![Flask](https://img.shields.io/badge/flask-blue?logo=flask&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-blue?logo=TensorFlow)
-![Chataigne](https://img.shields.io/badge/Chataigne-blue)
+![Flask](https://img.shields.io/badge/flask-01A773?logo=flask&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-01A773?logo=TensorFlow)
+![Chataigne](https://img.shields.io/badge/Chataigne-01A773)
 
 ![GenAI-images](https://img.shields.io/badge/gen%20ai-images-green?logo=gen%20ai-images)
 ![GenAI-gifs](https://img.shields.io/badge/gen%20ai-gifs-blue?logo=gen%20ai-images)
@@ -34,12 +34,13 @@ You can catch me streaming this project on the weekends on
 ![GenAI-3d](https://img.shields.io/badge/gen%20ai-3d-teal?logo=gen%20ai-images)
 ![GenAI-text](https://img.shields.io/badge/gen%20ai-text-orange?logo=gen%20ai-images)
 
-![Unity](https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=blue)
-![Blender](https://img.shields.io/badge/Blender-282C34?logo=Blender&logoColor=3DDC84)
-![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37)
-![Android](https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84)
+![Unity](https://img.shields.io/badge/Unity-215E00?logo=unity&logoColor=blue)
+![Blender](https://img.shields.io/badge/Blender-215E00?logo=Blender&logoColor=3DDC84)
+![Arduino](https://img.shields.io/badge/Arduino-215E00?logo=Arduino&logoColor=00E5CA)
+![Postman](https://img.shields.io/badge/Postman-215E00?logo=postman&logoColor=FF6C37)
+![Android](https://img.shields.io/badge/Android-215E00?logo=android&logoColor=3DDC84)
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-6441a5?logo=Heroku&logoColor=white)
 
 
 ## 📫 Contact
