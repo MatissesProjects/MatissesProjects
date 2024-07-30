@@ -28,11 +28,11 @@ You can catch me streaming this project on the weekends on
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-01A773?logo=TensorFlow)
 ![Chataigne](https://img.shields.io/badge/Chataigne-01A773)
 
-![GenAI-images](https://img.shields.io/badge/gen%20ai-images-green?logo=anthropic)
-![GenAI-gifs](https://img.shields.io/badge/gen%20ai-gifs-blue?logo=anthropic)
-![GenAI-video](https://img.shields.io/badge/gen%20ai-video-yellow?logo=anthropic)
-![GenAI-3d](https://img.shields.io/badge/gen%20ai-3d-teal?logo=anthropic)
-![GenAI-text](https://img.shields.io/badge/gen%20ai-text-orange?logo=anthropic)
+![GenAI-images](https://img.shields.io/badge/gen%20ai-images-green?logo=anthropic&logoColor=teal)
+![GenAI-gifs](https://img.shields.io/badge/gen%20ai-gifs-blue?logo=anthropic&logoColor=teal)
+![GenAI-video](https://img.shields.io/badge/gen%20ai-video-yellow?logo=anthropic&logoColor=teal)
+![GenAI-3d](https://img.shields.io/badge/gen%20ai-3d-teal?logo=anthropic&logoColor=teal)
+![GenAI-text](https://img.shields.io/badge/gen%20ai-text-orange?logo=anthropic&logoColor=teal)
 
 ![Unity](https://img.shields.io/badge/Unity-215E00?logo=unity&logoColor=blue)
 ![Blender](https://img.shields.io/badge/Blender-215E00?logo=Blender&logoColor=orange)
