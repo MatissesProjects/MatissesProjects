@@ -21,7 +21,7 @@ You can catch me streaming this project on the weekends on
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-009117?logo=python&logoColor=ffdd54)
 ![csharp](https://img.shields.io/badge/c%23-009117?logo=sharp)
-![SQL](https://img.shields.io/badge/sql-009117?logo=SQLite)
+![SQL](https://img.shields.io/badge/sql-009117?logo=SQLite&logoColor=2446ff)
 ![Kotlin](https://img.shields.io/badge/kotlin-009117?logo=kotlin)
 
 ![Flask](https://img.shields.io/badge/flask-01A773?logo=flask&logoColor=white)
@@ -35,7 +35,7 @@ You can catch me streaming this project on the weekends on
 ![GenAI-text](https://img.shields.io/badge/gen%20ai-text-orange?logo=anthropic)
 
 ![Unity](https://img.shields.io/badge/Unity-215E00?logo=unity&logoColor=blue)
-![Blender](https://img.shields.io/badge/Blender-215E00?logo=Blender&logoColor=3DDC84)
+![Blender](https://img.shields.io/badge/Blender-215E00?logo=Blender&logoColor=orange)
 ![Arduino](https://img.shields.io/badge/Arduino-215E00?logo=Arduino&logoColor=00E5CA)
 ![Postman](https://img.shields.io/badge/Postman-215E00?logo=postman&logoColor=FF6C37)
 ![Android](https://img.shields.io/badge/Android-215E00?logo=android&logoColor=3DDC84)
