@@ -20,14 +20,17 @@ You can catch me streaming this project on the weekends on
 
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-009117?logo=python&logoColor=ffdd54)
-![csharp](https://img.shields.io/badge/c%23-009117?logo=sharp)
-![SQL](https://img.shields.io/badge/sql-009117?logo=SQLite&logoColor=2446ff)
-![Kotlin](https://img.shields.io/badge/kotlin-009117?logo=kotlin)
+![Python](https://img.shields.io/badge/python-215E00?logo=python&logoColor=ffdd54)
+![csharp](https://img.shields.io/badge/c%23-215E00?logo=sharp)
+![SQL](https://img.shields.io/badge/sql-215E00?logo=SQLite&logoColor=003B57)
+![Kotlin](https://img.shields.io/badge/kotlin-215E00?logo=kotlin&logoColor=7F52FF)
+![vue.js](https://img.shields.io/badge/vue.js-215E00?logo=vuedotjs&logoColor=4FC08D)
+![html5](https://img.shields.io/badge/html5-215E00?logo=html5&logoColor=E34F26)
+![css3](https://img.shields.io/badge/css3-215E00?logo=css3&logoColor=1572B6)
 
-![Flask](https://img.shields.io/badge/flask-01A773?logo=flask&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-01A773?logo=TensorFlow)
-![Chataigne](https://img.shields.io/badge/Chataigne-01A773)
+![Flask](https://img.shields.io/badge/flask-41A773?logo=flask&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-41A773?logo=TensorFlow)
+![Chataigne](https://img.shields.io/badge/Chataigne-41A773)
 
 ![GenAI-images](https://img.shields.io/badge/gen%20ai-images-green?logo=anthropic&logoColor=teal)
 ![GenAI-gifs](https://img.shields.io/badge/gen%20ai-gifs-blue?logo=anthropic&logoColor=teal)
@@ -35,13 +38,15 @@ You can catch me streaming this project on the weekends on
 ![GenAI-3d](https://img.shields.io/badge/gen%20ai-3d-teal?logo=anthropic&logoColor=teal)
 ![GenAI-text](https://img.shields.io/badge/gen%20ai-text-orange?logo=anthropic&logoColor=teal)
 
-![Unity](https://img.shields.io/badge/Unity-215E00?logo=unity&logoColor=blue)
-![Blender](https://img.shields.io/badge/Blender-215E00?logo=Blender&logoColor=orange)
-![Arduino](https://img.shields.io/badge/Arduino-215E00?logo=Arduino&logoColor=00E5CA)
-![Postman](https://img.shields.io/badge/Postman-215E00?logo=postman&logoColor=FF6C37)
-![Android](https://img.shields.io/badge/Android-215E00?logo=android&logoColor=3DDC84)
+![Unity](https://img.shields.io/badge/Unity-336157?logo=unity&logoColor=blue)
+![Blender](https://img.shields.io/badge/Blender-336157?logo=Blender&logoColor=orange)
+![Arduino](https://img.shields.io/badge/Arduino-336157?logo=Arduino&logoColor=00E5CA)
+![Postman](https://img.shields.io/badge/Postman-336157?logo=postman&logoColor=FF6C37)
+![Android](https://img.shields.io/badge/Android-336157?logo=android&logoColor=3DDC84)
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-6441a5?logo=Heroku&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900)
 
 
 ## 📫 Contact
