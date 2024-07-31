@@ -1,5 +1,6 @@
 <div align="center">
-<h1>Hi there 👋, I'm Matisse</h1>
+
+## Hi there 👋, I'm Matisse
 
 ![](https://img.shields.io/badge/Software%20Engineer-California-blue)
 
@@ -18,7 +19,7 @@ You can catch me streaming this project on the weekends on
 [![Twitch](https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white)](https://www.twitch.tv/matissetec)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-009117?logo=python&logoColor=ffdd54)
 ![csharp](https://img.shields.io/badge/c%23-009117?logo=sharp)
 ![SQL](https://img.shields.io/badge/sql-009117?logo=SQLite&logoColor=2446ff)
