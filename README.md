@@ -22,11 +22,16 @@ You can catch me streaming this project on the weekends on
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-215E00?logo=python&logoColor=ffdd54)
 ![csharp](https://img.shields.io/badge/c%23-215E00?logo=sharp)
-![SQL](https://img.shields.io/badge/sql-215E00?logo=SQLite&logoColor=003B57)
 ![Kotlin](https://img.shields.io/badge/kotlin-215E00?logo=kotlin&logoColor=7F52FF)
-![vue.js](https://img.shields.io/badge/vue.js-215E00?logo=vuedotjs&logoColor=4FC08D)
-![html5](https://img.shields.io/badge/html5-215E00?logo=html5&logoColor=E34F26)
-![css3](https://img.shields.io/badge/css3-215E00?logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/sql-215E00?logo=SQLite&logoColor=003B57)
+
+![vue.js](https://img.shields.io/badge/vue.js-darkblue?logo=vuedotjs)
+![Vueitfy](https://img.shields.io/badge/Vueitfy-darkblue?logo=vuetify)
+
+![Javascript](https://img.shields.io/badge/Javascript-darkorange?logo=Javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-darkorange?logo=typescript)
+![html5](https://img.shields.io/badge/html5-darkorange?logo=html5)
+![css3](https://img.shields.io/badge/css3-darkorange?logo=css3)
 
 ![Flask](https://img.shields.io/badge/flask-41A773?logo=flask&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-41A773?logo=TensorFlow)
