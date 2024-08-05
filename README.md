@@ -43,6 +43,11 @@ You can catch me streaming this project on the weekends on
 ![GenAI-3d](https://img.shields.io/badge/gen%20ai-3d-teal?logo=anthropic&logoColor=teal)
 ![GenAI-text](https://img.shields.io/badge/gen%20ai-text-orange?logo=anthropic&logoColor=teal)
 
+![Comfyui](https://img.shields.io/badge/ComfyUI-darkblue)
+![Cloudflare-Ai](https://img.shields.io/badge/Cloudflare_Workers_Ai-darkblue?logo=Cloudflare&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-darkblue?&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-darkblue?logo=openai&logoColor=white)
+
 ![Unity](https://img.shields.io/badge/Unity-336157?logo=unity&logoColor=blue)
 ![Blender](https://img.shields.io/badge/Blender-336157?logo=Blender&logoColor=orange)
 ![Arduino](https://img.shields.io/badge/Arduino-336157?logo=Arduino&logoColor=00E5CA)
