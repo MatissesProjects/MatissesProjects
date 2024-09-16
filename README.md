@@ -70,28 +70,15 @@
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@matissetec)
   [![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/matissetec)
   
-  <!--
-  <details>
-  <summary>Click for GitHub Stats</summary>
-  
-  # 📊 GitHub Stats:
-  ![](https://badges.pufler.dev/visits/matissesprojects/matissesprojects?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matissesProjects&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  
-  This is very funny to me as I mostly program in Python and Kotlin, but a lot of that code is private
-  
-  # 🔝 Top Contributed Repo 
-  ![](https://github-contributor-stats.vercel.app/api?username=matissesprojects&limit=3&theme=dark&combine_all_yearly_contributions=true&count_private=true&layout=compact)
-  
-  </details>
-  -->
   </div>
 </td>
 
   <td width="30%" valign="top">
     <!-- Left column content (Image) -->
-    <img src="https://github.com/user-attachments/assets/40409650-f9bb-438e-8fb3-63f7e89aa1c3" alt="Your Image Description" />
+    <img src="https://github.com/user-attachments/assets/40409650-f9bb-438e-8fb3-63f7e89aa1c3" />
+    <img src="https://fileserver.matissetec.dev/output/videoBackgroundRemoval/630649313860780043/8592165366/apiOut/gif" />
+    <img src="https://fileserver.matissetec.dev/output/videoBackgroundRemoval/630649313860780043/7461305017/apiOut/gif" />
+    <img src="https://fileserver.matissetec.dev/output/videoBackgroundRemoval/630649313860780043/8507628941/apiOut/gif" />
   </td>
   </tr>
 </table>
