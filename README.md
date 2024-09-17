@@ -75,7 +75,7 @@
 
   <td width="30%" valign="top">
     <!-- Left column content (Image) -->
-    <img src="https://github.com/user-attachments/assets/40409650-f9bb-438e-8fb3-63f7e89aa1c3" />
+    <img src="https://github.com/user-attachments/assets/74ab1c61-0ec8-4d7a-8fb8-6a29b920a314" />
     <img src="https://fileserver.matissetec.dev/output/videoBackgroundRemoval/630649313860780043/8592165366/apiOut/gif" />
     <img src="https://fileserver.matissetec.dev/output/videoBackgroundRemoval/630649313860780043/7461305017/apiOut/gif" />
     <img src="https://fileserver.matissetec.dev/output/videoBackgroundRemoval/630649313860780043/8507628941/apiOut/gif" />
