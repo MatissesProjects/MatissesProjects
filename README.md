@@ -19,7 +19,6 @@
 - **[The Curator](./YoutubeRecommendation):** A local-first Chrome extension using **Transformers.js** and vector storage to replace the YouTube algorithm with a loyalty-based engine.
 - **[Stock Tracker](./StockTracker):** AI-driven sentiment and technical analysis suite using **Ollama (Qwen/Gemma)** and Google Sheets integration.
 - **[Tetris RL](./reinforcementLearningTetris):** Evolving Tetris agents through **Genetic Algorithms** and **Q-Learning** with real-time policy network visualization.
-- **[VoiceBloom](./VoiceBloom):** A gamified voice training mobile app for transgender individuals, featuring real-time pitch visualization.
 - **[AI Visualizations](./ExplanitionVideos):** Educational animations built with **Manim** to explain complex LLM concepts like attention mechanisms.
 - **[SandwichGenerator](./SandwichGenerator):** Multi-cuisine AI chef using **Flask** and **TensorFlow** for deep flavor profiling.
 
