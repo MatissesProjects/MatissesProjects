@@ -1,60 +1,84 @@
 <div align="center">
-  <!-- Top Dynamic Wave - Primary Green -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=200&section=header&text=MATISSE&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <!-- Top: High Amplitude Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=280&section=header&text=MATISSE&fontSize=95&animation=fadeIn&fontAlignY=30" width="100%" />
 
   <br />
 
-  <img src="https://github.com/user-attachments/assets/74ab1c61-0ec8-4d7a-8fb8-6a29b920a314" width="180" style="border-radius: 50%; margin-top: -150px; border: 5px solid #24292e; position: relative; z-index: 1;" />
+  <img src="https://github.com/user-attachments/assets/74ab1c61-0ec8-4d7a-8fb8-6a29b920a314" width="180" style="border-radius: 50%; margin-top: -210px; border: 5px solid #24292e; position: relative; z-index: 1;" />
 
   # Hi there 👋, I'm Matisse
   
   <p align="center">
-    <!-- Typing Bio - Secondary Blue -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Researcher;Modding+Enthusiast;Twitch+Streamer;Local+AI+Advocate" alt="Typing Bio" />
+    <!-- Erratic Speed Typing SVG -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=100&color=3FB950&vCenter=true&center=true&width=500&lines=SYSTEM+OVERRIDE+INIT...;NEURAL+LINK+STABLE(ish);REALITY+PATCHING...;LIVE+ON+TWITCH;DEPLOYING+LOCAL+AGENTS;CHAOS+LEVEL+MAX" alt="Typing Bio" />
   </p>
 
   <p align="center">
-    <!-- Visitor Count - Primary Green -->
-    <img src="https://komarev.com/ghpvc/?username=MatissesProjects&label=SYSTEM+ACCESSES&color=3FB950&style=flat-square" alt="Visitor Count" />
-    <img src="https://img.shields.io/badge/Software%20Engineer-California-3FB950?style=for-the-badge" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=MatissesProjects&label=THREAT+LEVEL&color=38BDF8&style=flat-square" alt="Visitor Count" />
+    <img src="https://img.shields.io/badge/Status-UNSTABLE-red?style=for-the-badge" alt="Location" />
     <a href="https://www.twitch.tv/matissetec"><img src="https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white" alt="Twitch Status" /></a>
   </p>
 
-  <!-- Section Divider Wave - Secondary Blue -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer" width="100%" />
+  <!-- High Frequency Glitch Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
 
 <br />
 
 ## 🚀 Featured Projects
 
+<div align="center">
+  <!-- Shallow Fast Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=50&section=header&animation=scaleIn" width="100%" />
+</div>
+
 ### 🧩 Extensions & Automation
 - **[The Curator (YouTube Recommendation)](https://github.com/MatissesProjects/Youtube-Recommendation):** A local-first Chrome extension using **Transformers.js** to replace the YouTube algorithm with a loyalty-based engine.
 - **[LinkedIn Job Helper](https://github.com/MatissesProjects/LinkedInJobHelper):** A manifest V3 extension to filter job noise and score descriptions using local AI.
 - **[TikTok TTS](https://github.com/Steve0929/tiktok-tts):** A Node.js wrapper for the TikTok text-to-speech API, supporting Disney and regional voices.
+
+<div align="center">
+  <!-- Deep Slow Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=110&section=header&animation=fadeIn" width="100%" />
+</div>
 
 ### 📱 Mobile & Standalone Applications
 - **[VoiceBloom](https://github.com/PeridotYouClod/VoiceBloom):** A gamified voice training mobile app for transgender individuals, featuring real-time pitch visualization.
 - **[DoggoMatch](https://github.com/MatissesProjects/DoggoMatch):** A standalone mobile application exploring data-driven interactions and mobile UX.
 - **[Stock Tracker](https://github.com/MatissesProjects/stockTracker):** AI-driven market analysis suite using **Ollama** and Google Sheets for technical and sentiment analysis.
 
+<div align="center">
+  <!-- Erratic Glitch Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=70&section=footer&animation=twinkling" width="100%" />
+</div>
+
 ### 🎓 Educational & Interactive Tools
 - **[SQL Buddy](https://github.com/MatissesProjects/SQL-Teacher):** A WASM-powered interactive SQL learning tool designed for teaching database foundations without setup.
 - **[AI Visualizations](https://github.com/MatissesProjects/ExplanitionVideos):** Educational animations built with **Manim** to explain complex LLM concepts like attention mechanisms.
 - **[STL-Generator](https://github.com/MatissesProjects/STL-Generator):** A collaborative 3D sculpture driven by GitHub Issues and a real-time ShapeBot.
+
+<div align="center">
+  <!-- Reversed Perspective Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=90&section=footer&animation=scaleIn" width="100%" />
+</div>
 
 ### 👾 Game Development & Modding
 - **[Net.Attack Modding Suite](https://github.com/MatissesProjects/Net.Attack):** Advanced C# mods and shared utilities (Harmony/BepInEx) for deep game modification.
 - **[InsaneAquarium](https://github.com/MatissesProjects/InsaneAquarium):** A Twitch-integrated interactive game allowing viewers to interact with the game state in real-time.
 - **[LitRPG Genesis Protocol](https://github.com/MatissesProjects/litRPG):** A Vue-based interactive system and dashboard for managing complex streamer-led RPG mechanics.
 
+<div align="center">
+  <!-- Steep Vertical Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=150&section=header&animation=fadeIn" width="100%" />
+</div>
+
 ### 🧠 AI Research & Experimentation
 - **[Tetris RL](https://github.com/MatissesProjects/reinforcementLearningTetris):** Evolving Tetris agents through **Genetic Algorithms** and **Q-Learning** with policy network visualization.
 - **[SandwichGenerator](https://github.com/MatissesProjects/SandwichGenerator):** A multi-cuisine AI chef using **TensorFlow** for deep flavor profiling and evolutionary preference tracking.
 
 <div align="center">
-  <!-- Section Divider Wave - Primary Green -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=80&section=header" width="100%" />
+  <!-- Chaotic Closing Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=130&section=footer&animation=twinkling" width="100%" />
 </div>
 
 <br />
@@ -66,19 +90,8 @@
 
 **AI Stack:** Transformers.js • Ollama • Manim • Keras • Scikit-learn
 
-### 🌐 Frontend & Frameworks
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square) ![Unity](https://img.shields.io/badge/-Unity-ffffff?logo=unity&logoColor=black&style=flat-square) ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
-
-**Ecosystem:** Vuetify • Compose Multiplatform • Harmony/BepInEx • Arduino
-
-### 🏗️ Backend & Infrastructure
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-
-**Data & Ops:** Node.js • PostgreSQL • Firebase • Cloudflare
-
 <div align="center">
-  <!-- Section Divider Wave - Secondary Blue -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=40&section=header&animation=fadeIn" width="100%" />
 </div>
 
 <br />
@@ -91,15 +104,15 @@
 </p>
 
 <div align="center">
-  <!-- Section Divider Wave - Primary Green -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=80&section=header" width="100%" />
+  <!-- Dynamic Scaling Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=100&section=header&animation=scaleIn" width="100%" />
   
   <h3>👾 Contribution Game</h3>
   <img src="https://raw.githubusercontent.com/MatissesProjects/MatissesProjects/output/github-contribution-grid-snake.svg" alt="Snake" />
   
   <br />
-  <!-- Section Divider Wave - Secondary Blue -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer" width="100%" />
+  <!-- Final High-Speed Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=140&section=footer&animation=twinkling" width="100%" />
 </div>
 
 <br />
@@ -114,6 +127,5 @@
   <b>Email:</b> matissetec@gmail.com
   
   <br /><br />
-  <!-- Closing Bar - Primary Green -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=3FB950&height=20&section=footer" width="100%" />
 </div>
