@@ -8,31 +8,35 @@
     <a href="https://www.twitch.tv/matissetec"><img src="https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white" alt="Twitch Status" /></a>
   </p>
 
-  I'm a software engineer passionate about **Local AI**, **Game Modding**, and **Interactive Web Systems**. I build tools that give users agency—whether it's taking back control of their recommendations, training their voice, or evolving neural networks to play Tetris.
+  I'm a software engineer passionate about **Local AI**, **Game Modding**, and **Interactive Systems**. I build tools that give users agency—whether it's taking back control of their recommendations, training their voice, or evolving neural networks.
 </div>
 
 <hr />
 
-## 🚀 Primary Pillars
+## 🚀 Featured Projects
 
-### 🧠 AI & Intelligent Systems
-- **[The Curator](./YoutubeRecommendation):** A local-first Chrome extension using **Transformers.js** and vector storage to replace the YouTube algorithm with a loyalty-based engine.
-- **[Stock Tracker](./StockTracker):** AI-driven sentiment and technical analysis suite using **Ollama (Qwen/Gemma)** and Google Sheets integration.
-- **[Tetris RL](./reinforcementLearningTetris):** Evolving Tetris agents through **Genetic Algorithms** and **Q-Learning** with real-time policy network visualization.
+### 🧩 Extensions & Automation
+- **[The Curator (YouTube Recommendation)](./YoutubeRecommendation):** A local-first Chrome extension using **Transformers.js** to replace the YouTube algorithm with a loyalty-based engine.
+- **[LinkedIn Job Helper](./LinkedInJobHelper):** A manifest V3 extension to filter job noise and score descriptions using local AI.
+- **[TikTok TTS](./tiktok-tts):** A Node.js wrapper for the TikTok text-to-speech API, supporting Disney and regional voices.
+
+### 📱 Mobile & Standalone Applications
+- **[DoggoMatch](./DoggoMatch):** A standalone mobile application exploring data-driven interactions and mobile UX.
+- **[Stock Tracker](./StockTracker):** AI-driven market analysis suite using **Ollama** and Google Sheets for technical and sentiment analysis.
+
+### 🎓 Educational & Interactive Tools
+- **[SQL Buddy](./SQL-Teacher):** A WASM-powered interactive SQL learning tool designed for teaching database foundations without setup.
 - **[AI Visualizations](./ExplanitionVideos):** Educational animations built with **Manim** to explain complex LLM concepts like attention mechanisms.
-- **[SandwichGenerator](./SandwichGenerator):** Multi-cuisine AI chef using **Flask** and **TensorFlow** for deep flavor profiling.
+- **[STL-Generator](./STL-Generator):** A collaborative 3D sculpture driven by GitHub Issues and a real-time ShapeBot.
 
 ### 👾 Game Development & Modding
-- **[Net.Attack Modding Suite](./Net.Attack):** Advanced mods (C#, Harmony) for *Net.Attack*, featuring custom shop logic and node expansions.
-- **[DoggoMatch](./DoggoMatch):** A Kotlin-based Android application exploring mobile UX and data-driven interactions.
-- **[InsaneAquarium](./InsaneAquarium):** A Twitch-integrated interactive game allowing viewers to feed and manage fish in real-time.
-- **[LitRPG Genesis Protocol](./litRPG):** A Vue-based interactive dashboard for managing complex streamer-led RPG mechanics.
+- **[Net.Attack Modding Suite](./Net.Attack):** Advanced C# mods and shared utilities (Harmony/BepInEx) for deep game modification.
+- **[InsaneAquarium](./InsaneAquarium):** A Twitch-integrated interactive game allowing viewers to interact with the game state in real-time.
+- **[LitRPG Genesis Protocol](./litRPG):** A Vue-based interactive system and dashboard for managing complex streamer-led RPG mechanics.
 
-### 🛠️ Developer Tools & Web Extensions
-- **[SQL Buddy](./SQL-Teacher):** A WASM-powered interactive SQL learning tool with real-time validation and a smart curriculum.
-- **[LinkedIn Job Helper](./LinkedInJobHelper):** Manifest V3 extension to filter noise and score job descriptions using local AI.
-- **[TikTok TTS](./tiktok-tts):** A Node.js wrapper for the TikTok text-to-speech API, supporting Disney and regional voices.
-- **[STL-Generator](./STL-Generator):** A collaborative 3D sculpture driven by GitHub Issues and a real-time ShapeBot.
+### 🧠 AI Research & Experimentation
+- **[Tetris RL](./reinforcementLearningTetris):** Evolving Tetris agents through **Genetic Algorithms** and **Q-Learning** with policy network visualization.
+- **[SandwichGenerator](./SandwichGenerator):** A multi-cuisine AI chef using **TensorFlow** for deep flavor profiling and evolutionary preference tracking.
 
 <hr />
 
