@@ -1,22 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=MATISSE&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Top Dynamic Wave - Primary Green -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=200&section=header&text=MATISSE&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <br />
 
-  <img src="https://github.com/user-attachments/assets/74ab1c61-0ec8-4d7a-8fb8-6a29b920a314" width="180" style="border-radius: 50%; margin-top: -100px; border: 5px solid #24292e;" />
+  <img src="https://github.com/user-attachments/assets/74ab1c61-0ec8-4d7a-8fb8-6a29b920a314" width="180" style="border-radius: 50%; margin-top: -150px; border: 5px solid #24292e; position: relative; z-index: 1;" />
 
   # Hi there 👋, I'm Matisse
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MatissesProjects&label=PROFILE+VIEWS&color=00BFFF&style=flat-square" alt="Visitor Count" />
-    <img src="https://img.shields.io/badge/Software%20Engineer-California-blue?style=for-the-badge" alt="Location" />
+    <!-- Typing Bio - Secondary Blue -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Researcher;Modding+Enthusiast;Twitch+Streamer;Local+AI+Advocate" alt="Typing Bio" />
+  </p>
+
+  <p align="center">
+    <!-- Visitor Count - Primary Green -->
+    <img src="https://komarev.com/ghpvc/?username=MatissesProjects&label=SYSTEM+ACCESSES&color=3FB950&style=flat-square" alt="Visitor Count" />
+    <img src="https://img.shields.io/badge/Software%20Engineer-California-3FB950?style=for-the-badge" alt="Location" />
     <a href="https://www.twitch.tv/matissetec"><img src="https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white" alt="Twitch Status" /></a>
   </p>
 
-  I'm a software engineer passionate about **Local AI**, **Game Modding**, and **Interactive Systems**. I build tools that give users agency—whether it's taking back control of their recommendations, training their voice, or evolving neural networks.
+  <!-- Section Divider Wave - Secondary Blue -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer" width="100%" />
 </div>
 
-<hr />
+<br />
 
 ## 🚀 Featured Projects
 
@@ -44,7 +52,12 @@
 - **[Tetris RL](https://github.com/MatissesProjects/reinforcementLearningTetris):** Evolving Tetris agents through **Genetic Algorithms** and **Q-Learning** with policy network visualization.
 - **[SandwichGenerator](https://github.com/MatissesProjects/SandwichGenerator):** A multi-cuisine AI chef using **TensorFlow** for deep flavor profiling and evolutionary preference tracking.
 
-<hr />
+<div align="center">
+  <!-- Section Divider Wave - Primary Green -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=80&section=header" width="100%" />
+</div>
+
+<br />
 
 ## 💻 Technical Arsenal
 
@@ -63,7 +76,12 @@
 
 **Data & Ops:** Node.js • PostgreSQL • Firebase • Cloudflare
 
-<hr />
+<div align="center">
+  <!-- Section Divider Wave - Secondary Blue -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=header" width="100%" />
+</div>
+
+<br />
 
 ## 📊 Stats & Activity
 
@@ -72,7 +90,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatissesProjects&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
 
-<hr />
+<div align="center">
+  <!-- Section Divider Wave - Primary Green -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=80&section=header" width="100%" />
+  
+  <h3>👾 Contribution Game</h3>
+  <img src="https://raw.githubusercontent.com/MatissesProjects/MatissesProjects/output/github-contribution-grid-snake.svg" alt="Snake" />
+  
+  <br />
+  <!-- Section Divider Wave - Secondary Blue -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer" width="100%" />
+</div>
+
+<br />
 
 ## 📫 Connect
 
@@ -82,4 +112,8 @@
   <a href="https://twitter.com/matissetec"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <br />
   <b>Email:</b> matissetec@gmail.com
+  
+  <br /><br />
+  <!-- Closing Bar - Primary Green -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3FB950&height=20&section=footer" width="100%" />
 </div>
