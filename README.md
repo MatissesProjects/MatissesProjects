@@ -16,27 +16,28 @@
 ## 🚀 Featured Projects
 
 ### 🧩 Extensions & Automation
-- **[The Curator (YouTube Recommendation)](./YoutubeRecommendation):** A local-first Chrome extension using **Transformers.js** to replace the YouTube algorithm with a loyalty-based engine.
-- **[LinkedIn Job Helper](./LinkedInJobHelper):** A manifest V3 extension to filter job noise and score descriptions using local AI.
-- **[TikTok TTS](./tiktok-tts):** A Node.js wrapper for the TikTok text-to-speech API, supporting Disney and regional voices.
+- **[The Curator (YouTube Recommendation)](https://github.com/MatissesProjects/Youtube-Recommendation):** A local-first Chrome extension using **Transformers.js** to replace the YouTube algorithm with a loyalty-based engine.
+- **[LinkedIn Job Helper](https://github.com/MatissesProjects/LinkedInJobHelper):** A manifest V3 extension to filter job noise and score descriptions using local AI.
+- **[TikTok TTS](https://github.com/Steve0929/tiktok-tts):** A Node.js wrapper for the TikTok text-to-speech API, supporting Disney and regional voices.
 
 ### 📱 Mobile & Standalone Applications
-- **[DoggoMatch](./DoggoMatch):** A standalone mobile application exploring data-driven interactions and mobile UX.
-- **[Stock Tracker](./StockTracker):** AI-driven market analysis suite using **Ollama** and Google Sheets for technical and sentiment analysis.
+- **[VoiceBloom](https://github.com/PeridotYouClod/VoiceBloom):** A gamified voice training mobile app for transgender individuals, featuring real-time pitch visualization.
+- **[DoggoMatch](https://github.com/MatissesProjects/DoggoMatch):** A standalone mobile application exploring data-driven interactions and mobile UX.
+- **[Stock Tracker](https://github.com/MatissesProjects/stockTracker):** AI-driven market analysis suite using **Ollama** and Google Sheets for technical and sentiment analysis.
 
 ### 🎓 Educational & Interactive Tools
-- **[SQL Buddy](./SQL-Teacher):** A WASM-powered interactive SQL learning tool designed for teaching database foundations without setup.
-- **[AI Visualizations](./ExplanitionVideos):** Educational animations built with **Manim** to explain complex LLM concepts like attention mechanisms.
-- **[STL-Generator](./STL-Generator):** A collaborative 3D sculpture driven by GitHub Issues and a real-time ShapeBot.
+- **[SQL Buddy](https://github.com/MatissesProjects/SQL-Teacher):** A WASM-powered interactive SQL learning tool designed for teaching database foundations without setup.
+- **[AI Visualizations](https://github.com/MatissesProjects/ExplanitionVideos):** Educational animations built with **Manim** to explain complex LLM concepts like attention mechanisms.
+- **[STL-Generator](https://github.com/MatissesProjects/STL-Generator):** A collaborative 3D sculpture driven by GitHub Issues and a real-time ShapeBot.
 
 ### 👾 Game Development & Modding
-- **[Net.Attack Modding Suite](./Net.Attack):** Advanced C# mods and shared utilities (Harmony/BepInEx) for deep game modification.
-- **[InsaneAquarium](./InsaneAquarium):** A Twitch-integrated interactive game allowing viewers to interact with the game state in real-time.
-- **[LitRPG Genesis Protocol](./litRPG):** A Vue-based interactive system and dashboard for managing complex streamer-led RPG mechanics.
+- **[Net.Attack Modding Suite](https://github.com/MatissesProjects/Net.Attack):** Advanced C# mods and shared utilities (Harmony/BepInEx) for deep game modification.
+- **[InsaneAquarium](https://github.com/MatissesProjects/InsaneAquarium):** A Twitch-integrated interactive game allowing viewers to interact with the game state in real-time.
+- **[LitRPG Genesis Protocol](https://github.com/MatissesProjects/litRPG):** A Vue-based interactive system and dashboard for managing complex streamer-led RPG mechanics.
 
 ### 🧠 AI Research & Experimentation
-- **[Tetris RL](./reinforcementLearningTetris):** Evolving Tetris agents through **Genetic Algorithms** and **Q-Learning** with policy network visualization.
-- **[SandwichGenerator](./SandwichGenerator):** A multi-cuisine AI chef using **TensorFlow** for deep flavor profiling and evolutionary preference tracking.
+- **[Tetris RL](https://github.com/MatissesProjects/reinforcementLearningTetris):** Evolving Tetris agents through **Genetic Algorithms** and **Q-Learning** with policy network visualization.
+- **[SandwichGenerator](https://github.com/MatissesProjects/SandwichGenerator):** A multi-cuisine AI chef using **TensorFlow** for deep flavor profiling and evolutionary preference tracking.
 
 <hr />
 
