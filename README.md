@@ -8,21 +8,27 @@
   
   ![](https://img.shields.io/badge/Software%20Engineer-California-blue)
   
-  During the week I work on API integration testing with Android using Kotlin; on the weekends, I do Python SaaS creation for an AI project.
-  
-  My AI generation SaaS project
-  
-  [![Website](https://img.shields.io/badge/Website-matissetec.dev-blue?style=for-the-badge&color=darkgreen&logo=vercel&logoColor=green)](https://matissetec.dev/)
-  
-  You can track our ideas and progress on
-  
-  [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.matissetec.dev/)
-  
-  You can catch me streaming this project on the weekends on 
-  
   [![Twitch](https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white)](https://www.twitch.tv/matissetec)
   
-  
+  ## 🚀 Featured Local Projects
+
+  ### 🧠 AI & Intelligent Systems
+  - **[The Curator (YouTube Recommendation)](./YoutubeRecommendation):** A local-first Chrome extension using **Transformers.js** and vector storage to replace the YouTube algorithm with a loyalty-based suggestion engine. Includes semantic search and clickbait de-hype layers.
+  - **[SandwichGenerator](./SandwichGenerator):** A multi-cuisine AI chef using **Flask** and **TensorFlow** for deep flavor profiling and evolutionary preference tracking.
+  - **[VoiceBloom](./VoiceBloom):** A gamified voice training mobile app for transgender individuals, focusing on real-time pitch visualization and clinical feedback.
+  - **[AI Visualizations](./ExplanitionVideos):** Educational animations built with **Manim** to explain complex LLM concepts like embeddings and attention mechanisms through linear algebra.
+
+  ### 👾 Game Development & Modding
+  - **[Net.Attack Modding Suite](./Net.Attack):** A collection of mods and shared utilities (C#, Harmony, BepInEx) for *Net.Attack*, featuring custom shop logic, node expansions, and a "Boss Rush" mode.
+  - **[InsaneAquarium](./InsaneAquarium):** A Twitch-integrated clone of the classic *Insaniquarium*, allowing viewers to interact with the game in real-time.
+  - **[LitRPG Genesis Protocol](./litRPG):** A Vue-based streamer dashboard and interactive system for managing LitRPG-style stream mechanics.
+  - **[Binding of Twitch Saac](./bindingOfTwitchSaac):** A web-based and Unity-based project exploring Twitch-controlled roguelike mechanics.
+
+  ### 🛠️ Web Extensions & Utilities
+  - **[LinkedInJobHelper](./LinkedInJobHelper):** A Manifest V3 extension to filter job noise, hide "Easy Apply" clutter, and score job descriptions using local AI.
+  - **[Price-Comparison](./Price-Comparison):** Automated price tracking and comparison tool for smarter online shopping.
+  - **[Discord-Renamer](./Discord-Renamer):** A utility to customize and manage Discord nicknames and channel names programmatically.
+
   ## 💻 Tech Stack:
   ![Python](https://img.shields.io/badge/python-215E00?logo=python&logoColor=ffdd54)
   ![C#](https://img.shields.io/badge/c%23-215E00?logo=csharp)
@@ -39,7 +45,7 @@
   
   ![Flask](https://img.shields.io/badge/flask-41A773?logo=flask&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-41A773?logo=TensorFlow)
-  ![Chataigne](https://img.shields.io/badge/Chataigne-41A773)
+  ![Transformers](https://img.shields.io/badge/Transformers.js-41A773)
   
   ![GenAI-images](https://img.shields.io/badge/gen%20ai-images-green?logo=anthropic&logoColor=teal)
   ![GenAI-gifs](https://img.shields.io/badge/gen%20ai-gifs-blue?logo=anthropic&logoColor=teal)
@@ -48,7 +54,6 @@
   ![GenAI-text](https://img.shields.io/badge/gen%20ai-text-orange?logo=anthropic&logoColor=teal)
   
   ![ComfyUI](https://img.shields.io/badge/ComfyUI-darkblue)
-  ![Cloudflare-Ai](https://img.shields.io/badge/Cloudflare_Workers_Ai-darkblue?logo=Cloudflare&logoColor=white)
   ![Ollama](https://img.shields.io/badge/Ollama-darkblue?logoColor=white)
   ![OpenAI](https://img.shields.io/badge/OpenAI_API-darkblue?logo=openai&logoColor=white)
   
