@@ -21,7 +21,6 @@
 - **[TikTok TTS](https://github.com/Steve0929/tiktok-tts):** A Node.js wrapper for the TikTok text-to-speech API, supporting Disney and regional voices.
 
 ### 📱 Mobile & Standalone Applications
-- **[VoiceBloom](https://github.com/PeridotYouClod/VoiceBloom):** A gamified voice training mobile app for transgender individuals, featuring real-time pitch visualization.
 - **[DoggoMatch](https://github.com/MatissesProjects/DoggoMatch):** A standalone mobile application exploring data-driven interactions and mobile UX.
 - **[Stock Tracker](https://github.com/MatissesProjects/stockTracker):** AI-driven market analysis suite using **Ollama** and Google Sheets for technical and sentiment analysis.
 
