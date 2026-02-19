@@ -10,7 +10,7 @@
   
   <p align="center">
     <!-- Erratic Speed Typing SVG -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=100&color=3FB950&vCenter=true&center=true&width=500&lines=SYSTEM+OVERRIDE+INIT...;NEURAL+LINK+STABLE(ish);REALITY+PATCHING...;LIVE+ON+TWITCH;DEPLOYING+LOCAL+AGENTS;CHAOS+LEVEL+MAX" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=750&color=3FB950&vCenter=true&center=true&width=500&lines=SYSTEM+OVERRIDE+INIT...;NEURAL+LINK+STABLE(ish);REALITY+PATCHING...;LIVE+ON+TWITCH;DEPLOYING+LOCAL+AGENTS;CHAOS+LEVEL+MAX" alt="Typing Bio" />
   </p>
 
   <p align="center">
