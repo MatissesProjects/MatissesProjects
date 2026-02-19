@@ -1,9 +1,14 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/74ab1c61-0ec8-4d7a-8fb8-6a29b920a314" width="200" style="border-radius: 50%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=MATISSE&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+
+  <br />
+
+  <img src="https://github.com/user-attachments/assets/74ab1c61-0ec8-4d7a-8fb8-6a29b920a314" width="180" style="border-radius: 50%; margin-top: -100px; border: 5px solid #24292e;" />
 
   # Hi there 👋, I'm Matisse
   
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MatissesProjects&label=PROFILE+VIEWS&color=00BFFF&style=flat-square" alt="Visitor Count" />
     <img src="https://img.shields.io/badge/Software%20Engineer-California-blue?style=for-the-badge" alt="Location" />
     <a href="https://www.twitch.tv/matissetec"><img src="https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white" alt="Twitch Status" /></a>
   </p>
@@ -21,6 +26,7 @@
 - **[TikTok TTS](https://github.com/Steve0929/tiktok-tts):** A Node.js wrapper for the TikTok text-to-speech API, supporting Disney and regional voices.
 
 ### 📱 Mobile & Standalone Applications
+- **[VoiceBloom](https://github.com/PeridotYouClod/VoiceBloom):** A gamified voice training mobile app for transgender individuals, featuring real-time pitch visualization.
 - **[DoggoMatch](https://github.com/MatissesProjects/DoggoMatch):** A standalone mobile application exploring data-driven interactions and mobile UX.
 - **[Stock Tracker](https://github.com/MatissesProjects/stockTracker):** AI-driven market analysis suite using **Ollama** and Google Sheets for technical and sentiment analysis.
 
