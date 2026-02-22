@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Top: High Amplitude Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=280&section=header&text=MATISSE&fontSize=95&animation=fadeIn&fontAlignY=30" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=180&section=header&text=Matisse&fontSize=95&animation=fadeIn&fontAlignY=40" width="100%" />
 
   <br />
 
@@ -14,13 +14,11 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MatissesProjects&label=THREAT+LEVEL&color=38BDF8&style=flat-square" alt="Visitor Count" />
-    <img src="https://img.shields.io/badge/Status-UNSTABLE-red?style=for-the-badge" alt="Location" />
     <a href="https://www.twitch.tv/matissetec"><img src="https://img.shields.io/twitch/status/matissetec?style=for-the-badge&labelColor=6441a5&logo=Twitch&logoColor=white" alt="Twitch Status" /></a>
   </p>
 
   <!-- High Frequency Glitch Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer&animation=twinkling" width="100%" />
 </div>
 
 <br />
@@ -38,7 +36,7 @@
 
 <div align="center">
   <!-- Deep Slow Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=110&section=header&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -52,7 +50,7 @@
 
 <div align="center">
   <!-- Reversed Perspective Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=90&section=footer&animation=scaleIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer&animation=scaleIn" width="100%" />
 </div>
 
 ### 👾 Game Development & Modding
@@ -62,7 +60,7 @@
 
 <div align="center">
   <!-- Steep Vertical Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=150&section=header&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
 ### 🧠 AI Research & Experimentation
@@ -71,7 +69,7 @@
 
 <div align="center">
   <!-- Chaotic Closing Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=130&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=50&section=footer&animation=twinkling" width="100%" />
 </div>
 
 <br />
@@ -90,7 +88,7 @@
 <br />
 
 <!-- Final High-Speed Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=140&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer&animation=twinkling" width="100%" />
 <br />
 
 ## 📫 Connect
