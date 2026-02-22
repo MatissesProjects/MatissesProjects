@@ -10,7 +10,7 @@
   
   <p align="center">
     <!-- Erratic Speed Typing SVG -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=750&color=3FB950&vCenter=true&center=true&width=500&lines=SYSTEM+OVERRIDE+INIT...;NEURAL+LINK+STABLE(ish);REALITY+PATCHING...;LIVE+ON+TWITCH;DEPLOYING+LOCAL+AGENTS;CHAOS+LEVEL+MAX" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=750&color=3FB950&vCenter=true&center=true&width=500&lines=SYSTEM+OVERRIDE+INIT...;LIVE+ON+TWITCH;DEPLOYING+LOCAL+AGENTS;BUILDING+LINES+OF+CODE" alt="Typing Bio" />
   </p>
 
   <p align="center">
@@ -81,7 +81,7 @@
 ### 🛠️ Languages & AI
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square) 
 
-**AI Stack:** Transformers.js • Ollama • Manim • Keras • Scikit-learn
+**AI Stack:** Transformers.js • Ollama • Keras • Scikit-learn • Tensorflow
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=40&section=header&animation=fadeIn" width="100%" />
@@ -89,25 +89,8 @@
 
 <br />
 
-## 📊 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatissesProjects&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatissesProjects&layout=compact&theme=transparent&hide_border=true" height="150" />
-</p>
-
-<div align="center">
-  <!-- Dynamic Scaling Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FB950&height=100&section=header&animation=scaleIn" width="100%" />
-  
-  <h3>👾 Contribution Game</h3>
-  <img src="https://raw.githubusercontent.com/MatissesProjects/MatissesProjects/output/github-contribution-grid-snake.svg" alt="Snake" />
-  
-  <br />
-  <!-- Final High-Speed Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=140&section=footer&animation=twinkling" width="100%" />
-</div>
-
+<!-- Final High-Speed Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=140&section=footer&animation=twinkling" width="100%" />
 <br />
 
 ## 📫 Connect
