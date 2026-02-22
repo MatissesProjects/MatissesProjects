@@ -35,17 +35,11 @@
 ### 🧩 Extensions & Automation
 - **[The Curator (YouTube Recommendation)](https://github.com/MatissesProjects/Youtube-Recommendation):** A local-first Chrome extension using **Transformers.js** to replace the YouTube algorithm with a loyalty-based engine.
 - **[LinkedIn Job Helper](https://github.com/MatissesProjects/LinkedInJobHelper):** A manifest V3 extension to filter job noise and score descriptions using local AI.
-- **[TikTok TTS](https://github.com/Steve0929/tiktok-tts):** A Node.js wrapper for the TikTok text-to-speech API, supporting Disney and regional voices.
 
 <div align="center">
   <!-- Deep Slow Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=110&section=header&animation=fadeIn" width="100%" />
 </div>
-
-### 📱 Mobile & Standalone Applications
-- **[VoiceBloom](https://github.com/PeridotYouClod/VoiceBloom):** A gamified voice training mobile app for transgender individuals, featuring real-time pitch visualization.
-- **[DoggoMatch](https://github.com/MatissesProjects/DoggoMatch):** A standalone mobile application exploring data-driven interactions and mobile UX.
-- **[Stock Tracker](https://github.com/MatissesProjects/stockTracker):** AI-driven market analysis suite using **Ollama** and Google Sheets for technical and sentiment analysis.
 
 <div align="center">
   <!-- Erratic Glitch Wave -->
@@ -54,7 +48,6 @@
 
 ### 🎓 Educational & Interactive Tools
 - **[SQL Buddy](https://github.com/MatissesProjects/SQL-Teacher):** A WASM-powered interactive SQL learning tool designed for teaching database foundations without setup.
-- **[AI Visualizations](https://github.com/MatissesProjects/ExplanitionVideos):** Educational animations built with **Manim** to explain complex LLM concepts like attention mechanisms.
 - **[STL-Generator](https://github.com/MatissesProjects/STL-Generator):** A collaborative 3D sculpture driven by GitHub Issues and a real-time ShapeBot.
 
 <div align="center">
