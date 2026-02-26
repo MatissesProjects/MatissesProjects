@@ -23,7 +23,7 @@
 
 <br />
 
-![GitHeat Analytics](https://raw.githubusercontent.com/MatissesProjects/GitProgressGraphInfo/main/githeat.png)
+[![GitHeat Analytics](https://raw.githubusercontent.com/MatissesProjects/GitProgressGraphInfo/main/githeat.png)](https://github.com/MatissesProjects/GitProgressGraphInfo)
 
 <!-- Final High-Speed Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer&animation=twinkling" width="100%" />
