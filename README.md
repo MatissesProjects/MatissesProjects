@@ -9,8 +9,8 @@
   # Hi there 👋, I'm Matisse
   
   <p align="center">
-    <!-- Erratic Speed Typing SVG -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=750&color=3FB950&vCenter=true&center=true&width=500&lines=SYSTEM+OVERRIDE+INIT...;LIVE+ON+TWITCH;DEPLOYING+LOCAL+AGENTS;BUILDING+LINES+OF+CODE" alt="Typing Bio" />
+    <!-- Refined Tech Identity Typing SVG -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=800&pause=750&color=3FB950&vCenter=true&center=true&width=500&lines=AI+ORCHESTRATION;CREATIVE+TOOLS;KOTLIN+MULTIPLATFORM;MODULAR+GAME+SYSTEMS;PRIVACY-FIRST+ENGINEERING" alt="Typing Bio" />
   </p>
 
   <p align="center">
@@ -23,10 +23,36 @@
 
 <br />
 
+## 🚀 Featured Portfolio
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[AudioSequencer AI](https://github.com/MatissesProjects/AudioSequencer)** | Pro-grade visual arrangement environment using local AI (CLAP) for semantic vibe search and auto-orchestration. | `Python`, `PyQt6`, `librosa`, `SQLite`, `TensorFlow` |
+| **[Net.Attack Mods](https://github.com/MatissesProjects/Net.Attack)** | A collection of modular game extensions built on a shared utility framework for safe reflection and patching. | `C#`, `Unity`, `Harmony` |
+| **[The Curator](https://github.com/MatissesProjects/YoutubeRecommendation)** | Local-first YouTube recommendation engine that prioritizes creator loyalty over engagement clicks. | `TypeScript`, `esbuild`, `Chrome Extension` |
+| **[Sandwich AI](https://github.com/MatissesProjects/SandwichGenerator)** | Evolutionary recipe engine using physics-based flavor profiling and neural recommenders. | `Python`, `Flask`, `TensorFlow`, `SQLite` |
+
+<br />
+
+## 🛠 The Arsenal
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</div>
+
+<br />
+
+## 📊 Live Development Metrics (GitHeat)
+
 [![GitHeat Analytics](https://raw.githubusercontent.com/MatissesProjects/GitProgressGraphInfo/main/githeat.png)](https://github.com/MatissesProjects/GitProgressGraphInfo)
 
-<!-- Final High-Speed Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer&animation=twinkling" width="100%" />
+> *Analytics powered by the **[GitProgressGraphInfo](https://github.com/MatissesProjects/GitProgressGraphInfo)** system. Tracks RPG progression (XP/Level), consistency, and velocity across all projects.*
+
 <br />
 
 ## 📫 Connect
