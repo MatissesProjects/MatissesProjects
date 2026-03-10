@@ -49,7 +49,7 @@
 
 ## 📊 Live Development Metrics (GitHeat)
 
-[![GitHeat Analytics](https://raw.githubusercontent.com/MatissesProjects/GitProgressGraphInfo/main/githeat.png)](https://github.com/MatissesProjects/GitProgressGraphInfo)
+[![GitHeat Analytics](https://raw.githubusercontent.com/MatissesProjects/GitProgressGraphInfo/main/githeat.gif)](https://github.com/MatissesProjects/GitProgressGraphInfo)
 
 > *Analytics powered by the **[GitProgressGraphInfo](https://github.com/MatissesProjects/GitProgressGraphInfo)** system. Tracks RPG progression (XP/Level), consistency, and velocity across all projects.*
 
